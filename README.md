@@ -28,13 +28,16 @@
 * **External Benchmarking:** Research how industry leaders or peers solve similar problems.
 * **Adaptation:** Stay open to integrating better methodologies discovered during the process.
 
-## Architecture
-UMPIRE
+## Architecture to decide which algorithm / ML model to implement
+- UMPIRE:
+
 Understand
 Match
 Plan 
 Implement
 Review/Evaluate
+
+
 
 ## CS146S Inventory 
 📍Lossy compression of the internet — 課程比喻：LLM 是網路的有損壓縮檔，記得「什麼常接什麼」而非「什麼是真的」。
@@ -85,3 +88,12 @@ This step is crucial for managing an LLM's context window. He breaks the design 
 This is where the actual "vibing" happens, but in a controlled environment. He uses a Supervisor Agent (监工Agent) that reads the progress.md file and delegates specific coding tasks to Sub-Agents. Each Sub-Agent is only given the context of the specific module it is working on, keeping the AI focused and reducing errors.
 
 ![image](https://hackmd.io/_uploads/ByXDYBmyfe.png)
+
+
+### Paper Note
+1. Prompt Repetition Improves Non-Reasoning LLMs: "Emphasis you key point twice in prompt!"
+arXiv:2512.14982v1[cs.LG] 17 Dec 2025
+
+2. Lost in the Middle at Birth: An Exact Theory of Transformer Position Bias: "lost in the middle is inevitable by the Transformer design! (casual masking )"
+arxiv.org/pdf/2603.10123
+
