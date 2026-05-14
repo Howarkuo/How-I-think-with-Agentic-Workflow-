@@ -91,9 +91,9 @@ This is where the actual "vibing" happens, but in a controlled environment. He u
 
 
 ### Paper Note
-1. Prompt Repetition Improves Non-Reasoning LLMs: "Emphasis you key point twice in prompt!"
+1. Prompt Repetition Improves Non-Reasoning LLMs: **"Emphasize you key point twice in prompt!"**
 arXiv:2512.14982v1[cs.LG] 17 Dec 2025
 
-2. Lost in the Middle at Birth: An Exact Theory of Transformer Position Bias: "lost in the middle is inevitable by the Transformer design! (casual masking )"
+2. Lost in the Middle at Birth: An Exact Theory of Transformer Position Bias: **"lost in the middle is inevitable by the Transformer design! (casual masking )"**
 arxiv.org/pdf/2603.10123
 
